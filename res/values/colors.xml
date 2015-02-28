@@ -1,0 +1,16 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+   	
+	<color name="Gray">#E6E4E4</color>
+	
+	<color name="Lavender">#efd0ed</color>
+	<color name="LightOrange">#fcedc4</color>
+	<color name="Magenta">#f4becd</color>
+	<color name="LightBlue">#c7d0ea</color>
+	<color name="LightGreen">#c0f9c7</color>
+	
+	
+	
+	
+</resources>
